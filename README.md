@@ -1,5 +1,6 @@
 ## Hi, My name is Ashley Charles 💻
 CS @FIU | Class of 2027
+
 **Current Focus:** 
 Cybersecurity Risk and Vulnerability Management, Threat detection, and ethical penetration testing.
 
@@ -14,6 +15,7 @@ Cybersecurity Risk and Vulnerability Management, Threat detection, and ethical p
 👾 **[Bluff-It](https://github.com/kvillalobosh/Bluff-It)** Multiplayer game built for ShellHacks 2026
 
  🌐 Connect with me on LinkedIn!
+ 
 **[LinkedIn](https://www.linkedin.com/in/ashleychar/)**
 
 <!--
