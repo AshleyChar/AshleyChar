@@ -11,7 +11,7 @@ Cybersecurity risk and vulnerability management, threat detection, and ethical p
 - 💫 **Key Logger:** Implements real-time logging for defense detection methodologies
 
 ### Current Projects
-- 👾 **[Bluff-It](https://github.com/kvillalobosh/Bluff-It):** Multiplayer game built for ShellHacks 2026
+- 👾 **[Bluff-It](https://github.com/kvillalobosh/Bluff-It) :** Multiplayer game built for ShellHacks 2026
 
 ### Connect With Me
 🌐 [LinkedIn](https://www.linkedin.com/in/ashleychar/)
